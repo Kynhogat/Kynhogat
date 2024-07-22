@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning javascript, php and C
 - 💞️ I’m looking to collaborate on App and web development
-- 📫 How to reach me --> on Discord: Khaled.#4035
+- 📫 How to reach me --> on Discord: kynhogoat
 
 <!---
 Kynhogat/Kynhogat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
