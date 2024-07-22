@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Khaled
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning javascript, php and C
+- 👋 Hi, I’m @Kyn
+- 👀 I love Web development
+- 🌱 I’m currently learning Java and C#
 - 💞️ I’m looking to collaborate on App and web development
 - 📫 How to reach me --> on Discord: kynhogoat
 
